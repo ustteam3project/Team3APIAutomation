@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2742" started-at="2022-02-08T17:52:43Z" finished-at="2022-02-08T17:52:46Z">
+  <suite name="Suite" duration-ms="3910" started-at="2022-02-08T18:44:36Z" finished-at="2022-02-08T18:44:40Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2742" started-at="2022-02-08T17:52:43Z" finished-at="2022-02-08T17:52:46Z">
+    <test name="Test" duration-ms="3910" started-at="2022-02-08T18:44:36Z" finished-at="2022-02-08T18:44:40Z">
       <class name="FunctionalTesting.APIRequestAutomation">
-        <test-method status="PASS" signature="setup1()[pri:0, instance:FunctionalTesting.APIRequestAutomation@598067a5]" name="setup1" is-config="true" duration-ms="152" started-at="2022-02-08T17:52:43Z" finished-at="2022-02-08T17:52:43Z">
+        <test-method status="PASS" signature="setup1()[pri:0, instance:FunctionalTesting.APIRequestAutomation@6917bb4]" name="setup1" is-config="true" duration-ms="342" started-at="2022-02-08T18:44:36Z" finished-at="2022-02-08T18:44:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup1 -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:FunctionalTesting.APIRequestAutomation@598067a5]" name="setup" is-config="true" duration-ms="234" started-at="2022-02-08T17:52:43Z" finished-at="2022-02-08T17:52:44Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:FunctionalTesting.APIRequestAutomation@6917bb4]" name="setup" is-config="true" duration-ms="701" started-at="2022-02-08T18:44:36Z" finished-at="2022-02-08T18:44:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="getmethodvalidation()[pri:0, instance:FunctionalTesting.APIRequestAutomation@598067a5]" name="getmethodvalidation" duration-ms="1554" started-at="2022-02-08T17:52:44Z" finished-at="2022-02-08T17:52:45Z">
+        <test-method status="PASS" signature="getmethodvalidation()[pri:0, instance:FunctionalTesting.APIRequestAutomation@6917bb4]" name="getmethodvalidation" duration-ms="1993" started-at="2022-02-08T18:44:37Z" finished-at="2022-02-08T18:44:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getmethodvalidation -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:FunctionalTesting.APIRequestAutomation@598067a5]" name="setup" is-config="true" duration-ms="0" started-at="2022-02-08T17:52:45Z" finished-at="2022-02-08T17:52:45Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:FunctionalTesting.APIRequestAutomation@6917bb4]" name="setup" is-config="true" duration-ms="0" started-at="2022-02-08T18:44:39Z" finished-at="2022-02-08T18:44:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="postmethodvalidation()[pri:0, instance:FunctionalTesting.APIRequestAutomation@598067a5]" name="postmethodvalidation" duration-ms="929" started-at="2022-02-08T17:52:45Z" finished-at="2022-02-08T17:52:46Z">
+        <test-method status="PASS" signature="postmethodvalidation()[pri:0, instance:FunctionalTesting.APIRequestAutomation@6917bb4]" name="postmethodvalidation" duration-ms="1165" started-at="2022-02-08T18:44:39Z" finished-at="2022-02-08T18:44:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postmethodvalidation -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:FunctionalTesting.APIRequestAutomation@598067a5]" name="teardown" is-config="true" duration-ms="280" started-at="2022-02-08T17:52:46Z" finished-at="2022-02-08T17:52:46Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:FunctionalTesting.APIRequestAutomation@6917bb4]" name="teardown" is-config="true" duration-ms="689" started-at="2022-02-08T18:44:40Z" finished-at="2022-02-08T18:44:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- FunctionalTesting.APIRequestAutomation -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
