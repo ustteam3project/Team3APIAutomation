@@ -5,10 +5,11 @@
     <classes>
       <class name="FunctionalTesting.APIRequestAutomation">
         <methods>
+          <include name="deltemethodvalidation"/>
           <include name="setup1"/>
           <include name="setup"/>
           <include name="teardown"/>
-          <include name="getmethodvalidation"/>
+          <include name="teardown"/>
         </methods>
       </class> <!-- FunctionalTesting.APIRequestAutomation -->
     </classes>
