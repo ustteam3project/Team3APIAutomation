@@ -182,6 +182,7 @@ public class APIRequestAutomation {
 	public void teardown() {
 
 		extent.flush();
+		//commit on git 
 
 	}
 
